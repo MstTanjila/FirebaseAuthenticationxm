@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079243985912",
+    "project_id": "fir-authenticationxm",
+    "storage_bucket": "fir-authenticationxm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079243985912:android:ffeb2b3d07400bc2cefc0d",
+        "android_client_info": {
+          "package_name": "com.alamin.firebaseauthenticationxm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVXf0szKLmd6sLO97aVWDgexMs4cBUwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
